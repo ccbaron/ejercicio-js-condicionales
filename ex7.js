@@ -9,4 +9,3 @@ let password = "1995"; // MODIFICAR
 if (usuario == "pepa@gmail.com" && password == "1995") {
   console.log("Credenciales correctas, bievenido usuario " + usuario);
 }
-
