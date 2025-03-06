@@ -6,6 +6,9 @@ Mira este vídeo antes de hacer el los siguientes ejercicios: https://www.youtub
 
 */
 
+/* Se ejecutará solo la primera condición "Esta condición se cumple" ya que en el primer condicional se cumplen las dos condiciones requeridas para ejecutarse,
+por otro lado, en el segundo condicional solo se cumple una de las condiciones que se necesitan para ejecutarse.*/
+
 if (4 > 3 && 6 > 5) {
   console.log("Esta condición se cumple");
 }
